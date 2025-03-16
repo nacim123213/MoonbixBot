@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Moonbix bot", "Moonbix bot\Moonbix bot.pyproj", "{73BC75E0-B427-4609-8F1B-241A49B10F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BC75E0-B427-4609-8F1B-241A49B10F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BC75E0-B427-4609-8F1B-241A49B10F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1E78C5-5B86-4318-B58B-AA7A6E7C1F50}
+	EndGlobalSection
+EndGlobal
